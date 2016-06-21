@@ -37,4 +37,4 @@ ROOT = $$PWD
 OBJECTS_DIR = $$BUILDPATH/obj
 RCC_DIR     = $$BUILDPATH/rcc
 MOC_DIR     = $$BUILDPATH/moc
-UI_DIR      = $$BUILDPATH/ui
+#UI_DIR      = $$BUILDPATH/ui
